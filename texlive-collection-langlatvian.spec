@@ -32,3 +32,12 @@ Support for typesetting Latvian.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780447
+- Update to latest release.
+- Import texlive-collection-langlatvian
+- Import texlive-collection-langlatvian
+
