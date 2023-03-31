@@ -7,7 +7,7 @@
 Name:		texlive-collection-langlatvian
 Epoch:		1
 Version:	20120224
-Release:	11
+Release:	12
 Summary:	Latvian
 Group:		Publishing
 URL:		http://tug.org/texlive
